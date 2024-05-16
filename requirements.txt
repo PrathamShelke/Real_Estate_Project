@@ -1,0 +1,15 @@
+streamlit==1.32.2
+pandas==2.2.1
+numpy
+plotly==5.14.0
+wordcloud==1.9.3
+matplotlib==3.6.2
+seaborn==0.12.2
+scikit-learn
+langchain
+langchain_community
+pandasai
+ollama
+groq
+langchain-groq
+python-dotenv
